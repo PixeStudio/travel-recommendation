@@ -51,3 +51,13 @@
 - Implement data fetching from JSON using `fetch`
 - Add search logic and keyword normalization
 - Dynamically render recommendation cards into results container
+
+
+## KEY: 03 — Data Fetching
+
+### [2026-04-02]
+
+- Implemented fetch() to retrieve travel data from JSON file
+- Parsed response using .json()
+- Logged data to console for verification
+- Ensured compatibility with course requirements (Fetch API)
